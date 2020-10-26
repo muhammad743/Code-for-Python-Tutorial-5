@@ -1,0 +1,18 @@
+# "How to make a simple calculator in Python."
+
+first = float(input("First Number: "))
+second = float(input("Second Number: "))
+print("Addition")
+sum = first + second
+print(sum)
+print("Subtraction")
+sum = first - second
+print(sum)
+print("Multiplication")
+sum = first * second
+print(sum)
+print("Division")
+sum = first / second
+print(sum)
+
+#This was all for today, I hope you understand and don;t forget to Subcribe!
